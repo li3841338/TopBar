@@ -3,7 +3,7 @@
 //  ScrollMenu
 //
 //  Created by lyf on 15/7/9.
-//  Copyright © 2015年 zn. All rights reserved.
+//  Copyright © 2015年 lyf. All rights reserved.
 //  顶部可以滚动横条
 
 import UIKit
