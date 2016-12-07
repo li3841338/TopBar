@@ -3,7 +3,7 @@
 //  ScrollMenu
 //
 //  Created by lyf on 15/7/15.
-//  Copyright © 2015年 zn. All rights reserved.
+//  Copyright © 2015年 lyf. All rights reserved.
 //  －－topMenu对应的cell
 
 import UIKit
